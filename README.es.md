@@ -4,6 +4,8 @@
 
 Un sistema de renderizado 2.5D y plugins del editor Maker Studio para Pokemon Essentials 21.1, con herramientas para modelos, imágenes en plano (billboards), terreno e iluminación.
 
+> **Aviso sobre la versión de prueba**: Este proyecto se encuentra actualmente en fase de pruebas. Durante el desarrollo utilicé algunos plugins que no puedo compartir públicamente debido a restricciones de licencia. Para utilizar correctamente el editor de escenas 3D, tendrás que crear tu propio plugin de compatibilidad para Maker Studio y realizar algunos ajustes en [mkxp-z-ext](https://github.com/luka-sj/mkxp-z-ext).
+
 ## Instalación
 
 Necesitas un proyecto de Pokemon Essentials 21.1, [Maker Studio](https://github.com/Toskan4134/maker-studio) y una versión de [mkxp-z-ext](https://github.com/luka-sj/mkxp-z-ext) compatible con las funciones 2.5D de este plugin. El proyecto base debe tener ya las adaptaciones necesarias; copiar este paquete por sí solo no adapta el motor ni el proyecto base. El motor y la aplicación Maker Studio no están incluidos.

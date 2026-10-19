@@ -4,6 +4,8 @@
 
 Pokemon Essentials 21.1 的 2.5D 运行时与 Maker Studio 编辑器插件，包含模型、立牌、地形和灯光工具。
 
+> **测试版提示**：本项目目前仅为测试版本。个人开发过程中使用了部分因授权限制不便公开的插件，因此若要正常使用 3D 场景编辑器，需要自行编写 Maker Studio 适配插件，并对 [mkxp-z-ext](https://github.com/luka-sj/mkxp-z-ext) 做少量调整。
+
 ## 安装
 
 安装前需准备 Pokemon Essentials 21.1 工程、[Maker Studio](https://github.com/Toskan4134/maker-studio)，以及支持本插件 2.5D 功能的 [mkxp-z-ext](https://github.com/luka-sj/mkxp-z-ext)。工程需事先完成配套的基础适配；仅复制本包不能完成引擎与基础工程的适配。本包不含引擎和 Maker Studio 主程序。
