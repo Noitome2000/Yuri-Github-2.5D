@@ -1,5 +1,7 @@
 # Yuri 2.5D
 
+[中文](README.md) | [English](README.en.md) | [Español](README.es.md)
+
 Pokemon Essentials 21.1 的 2.5D 运行时与 Maker Studio 编辑器插件，包含模型、立牌、地形和灯光工具。
 
 ## 安装
