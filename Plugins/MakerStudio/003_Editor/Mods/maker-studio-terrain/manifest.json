@@ -1,0 +1,10 @@
+{
+  "id": "cn.noitome.maker-studio-terrain",
+  "name": "高低地形与斜坡",
+  "version": "2.3.0",
+  "authors": [{ "name": "Noitome" }],
+  "description": "绘制多种边缘的平台、镂空高地、直线斜坡和内外角斜坡。",
+  "apiVersion": "1.0.0",
+  "main": "index.js",
+  "permissions": ["fs.project", "fs.write.project", "ui.toasts"]
+}

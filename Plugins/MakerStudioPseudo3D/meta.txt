@@ -1,0 +1,5 @@
+Name = Maker Studio Pseudo 3D
+Version = 2.0.0
+Essentials = 21.1
+Requires = MakerStudio
+Credits = Noitome

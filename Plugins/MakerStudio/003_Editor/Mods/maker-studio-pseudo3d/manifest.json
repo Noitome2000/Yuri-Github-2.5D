@@ -1,0 +1,10 @@
+{
+  "id": "cn.noitome.maker-studio-pseudo3d",
+  "name": "伪 3D 立牌与模型",
+  "version": "2.3.6",
+  "authors": [{ "name": "Noitome" }],
+  "description": "导入 PNG 立牌或带 UV 贴图的 OBJ/MTL 模型，并在地图上预览、放置和设置碰撞。",
+  "apiVersion": "1.0.0",
+  "main": "index.js",
+  "permissions": ["fs.project", "fs.write.project", "ui.dialogs", "ui.toasts"]
+}

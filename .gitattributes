@@ -1,0 +1,11 @@
+* text=auto
+*.rb text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.frag text eol=lf
+*.vert text eol=lf
+*.glsl text eol=lf
+*.patch text eol=lf
+*.ps1 text eol=crlf
+*.exe binary
